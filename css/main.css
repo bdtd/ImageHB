@@ -3629,6 +3629,7 @@ body, figure, h1, h2, h3, p {
   
   /* Styles for the slider container */
   .slider-container {
+    
     height: 400px;
   }
   /* Style for the navigation dots */
@@ -3665,3 +3666,4 @@ body, figure, h1, h2, h3, p {
     height: 100%; /* Ensure the image takes the full height of the slide */
     object-fit: contain; /* Preserve aspect ratio while covering the entire space */
   }
+ 
