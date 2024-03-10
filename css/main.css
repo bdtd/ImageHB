@@ -104,8 +104,8 @@ a:hover, a:active {
     outline: 0;
 }
 .info{
-    margin-left: 11.7em;
-    margin-right: 11.7em;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 
