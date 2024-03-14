@@ -1675,6 +1675,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header-menu-text {
+    color: white;
     display: block;
     position: absolute;
     top: 0;
@@ -3669,4 +3670,16 @@ body, figure, h1, h2, h3, p {
     height: 100%; /* Ensure the image takes the full height of the slide */
     object-fit: contain; /* Preserve aspect ratio while covering the entire space */
   }
- 
+
+
+.lab{
+    background-color: transparent;
+    color: white;
+    text-align: centre;
+    font: "montserrat-medium", sans-serif;
+}
+#lab2{
+    color: white;
+    text-align: centre;
+}
+    
