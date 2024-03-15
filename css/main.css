@@ -3678,4 +3678,11 @@ body, figure, h1, h2, h3, p {
     background-color: white;
     text-align: centre;
 }
-    
+ .table{
+    text-align: center;
+    background-color: white;
+  }
+  .service-item{
+    background-color: white;
+    padding: 3em;
+  }    
