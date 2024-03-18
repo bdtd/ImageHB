@@ -3685,6 +3685,8 @@ body, figure, h1, h2, h3, p {
   .service-item{
     background-color: white;
     padding: 3em;
+     overflow-x: auto;
+    max-width: 100%; 
   }
 .popup {
     display: none;
